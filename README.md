@@ -36,5 +36,16 @@ Resumen de las carpetas:
  
  Alberto Moro Carrera
 
+Fuentes de datos:
+
+Marítimos:
+
+https://towardsdatascience.com/creating-sea-routes-from-the-sea-of-ais-data-30bc68d8530e
+
+Ferroviarios:
+
+https://data.humdata.org/dataset/global-railways
+
+
 
 
